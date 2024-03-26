@@ -6,3 +6,7 @@ bananas
 carrots
 berries
 syrup
+tomotoes
+potatoes
+radish
+cucumbers
