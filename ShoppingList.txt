@@ -8,3 +8,5 @@ berries
 syrup
 tomotoes
 potatoes
+radish
+cucumbers
