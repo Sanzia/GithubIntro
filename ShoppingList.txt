@@ -1,7 +1,8 @@
-Shoppning List
+Shopping List
 
 apples
 oranges
 bananas
 carrots
 berries
+syrup
